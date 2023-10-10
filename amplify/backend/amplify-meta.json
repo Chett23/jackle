@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jackle-dev-113507-authRole",
+      "UnauthRoleArn": "arn:aws:iam::103002426761:role/amplify-jackle-dev-113507-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::103002426761:role/amplify-jackle-dev-113507-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-jackle-dev-113507-deployment",
+      "UnauthRoleName": "amplify-jackle-dev-113507-unauthRole",
+      "StackName": "amplify-jackle-dev-113507",
+      "StackId": "arn:aws:cloudformation:us-east-2:103002426761:stack/amplify-jackle-dev-113507/5bb92da0-6793-11ee-b8e2-065d3db7e079",
+      "AmplifyAppId": "d1t6q29c4hl56d"
+    }
+  }
+}
