@@ -10,8 +10,8 @@ import { AppContainer } from "./styles/containers";
 function App() {
   return (
     <AppContainer>
-      {/* <Home/> */}
-      <Login/>
+      <Home/>
+      {/* <Login/> */}
     </AppContainer>
   );
 }

@@ -1,8 +1,13 @@
 import React from 'react'
 
+import FooterNavBar from "../Components/FooterNavBar";
+
 const Home = () => {
   return (
-    <div>Home</div>
+    <>
+      <div>Home</div>
+      <FooterNavBar></FooterNavBar>
+    </>
   )
 }
 

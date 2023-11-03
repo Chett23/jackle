@@ -13,3 +13,6 @@ export const Button = styled.button`
     height: 25px;
     
 `
+export const NavButton = styled(Button)`
+  
+`

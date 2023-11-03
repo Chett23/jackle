@@ -17,3 +17,10 @@ export const LoginCont = styled.form`
     align-items: center;
     justify-content: center;
 `
+
+export const FooterCont = styled.div`
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+`
